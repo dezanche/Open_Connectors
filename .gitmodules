@@ -1,0 +1,3 @@
+[submodule "Open_Connectors_template"]
+	path = Open_Connectors_template
+	url = git@github.com:umbertozanovello/Open_Connectors_template.git
