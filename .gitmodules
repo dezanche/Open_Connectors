@@ -1,3 +1,6 @@
 [submodule "Open_Connectors_template"]
 	path = Open_Connectors_template
 	url = git@github.com:umbertozanovello/Open_Connectors_template.git
+[submodule "open_TR_RF_coil_connector"]
+	path = open_TR_RF_coil_connector
+	url = git@github.com:dezanche/open_TR_RF_coil_connector.git
