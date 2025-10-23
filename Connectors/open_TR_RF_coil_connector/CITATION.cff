@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this hardware, please cite it as below."
+authors:
+- family-names: "Tri"
+  given-names: "Nguyen"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Umberto"
+  given-names: "Zanovello"
+  orcid: "https://orcid.org/0000-0001-6415-9967"
+- family-names: "Nicola"
+  given-names: "De Zanche"
+  orcid: "https://orcid.org/0000-0003-4424-8430"
+title: "Transmit/Receive RF Coil Connector"
+version: 
+doi: 
+date-released: 
+url: "https://github.com/dezanche/open_TR_RF_coil_connector"
