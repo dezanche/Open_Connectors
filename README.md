@@ -12,7 +12,7 @@ Insertion loss of the coaxial contacts is better than 0.1 dB up to 200 MHz and b
 
 Approximate cost of all materials used for the prototype is $20 (USD).
 
-### OSII-1ch-TR-RF-Coil-Connector
+### OSII-RF-Coil-Connector
 <img src="pictures/OSII-1ch-TR-RF-Coil-Connector.jpg" width="200">
 
 This connector is optimized for the use with the [OSI<sup>2</sup> MRI Low Field scanner](https://www.opensourceimaging.org/project/osii-one/). The connector is intended for use with 1 channel Tx/Rx MRI radio frequency coils. Thanks to an edge connector, it is possible to transmit and receive up to 36 DC or logic signals. System- and coil-side 3D-printed mating plates protect the contacts and include ramps that assist with alignment and mating of the two halves. Correct alignment is further ensured by alignement pins. The connector is provided with a locking mechanism to maintain contact in case of vibrations or minor accidental force on the cable. Furthermore, the system-side part provides a dust cover to protect circuitry when the RF coil is disconnected.
