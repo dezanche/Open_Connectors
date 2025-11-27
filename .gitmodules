@@ -4,3 +4,6 @@
 [submodule "open_TR_RF_coil_connector"]
 	path = open_TR_RF_coil_connector
 	url = git@github.com:dezanche/open_TR_RF_coil_connector.git
+[submodule "OSII-RF-Coil-Connector"]
+	path = OSII-RF-Coil-Connector
+	url = git@github.com:umbertozanovello/OSII-RF-Coil-Connector.git
